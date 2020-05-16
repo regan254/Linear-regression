@@ -1,2 +1,2 @@
 # Linear-regression
-Codecademy reggy's linear regression project
+Codecademy Reggy's linear regression project
